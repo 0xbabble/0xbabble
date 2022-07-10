@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @0xbabble
-- 👀 I’m interested in cryptos, DAOs, Web 3.0, sustainbility, environmental protection!
-- 🌱 I’m currently an analyst at a crypto-native VC
-- 💞️ I’m looking to find developer talents
-- 📫 How to reach me: DM @0xbabble on Twitter
+- 👀 I’m interested in Decentralized Finance, privacy, sustainbility, environmental protection!
+- 🌱 I’m currently looking for jobs in Web 3.9
+- 📫 Where else you can find me: @0xbabble on Twitter
 
 <!---
 0xbabble/0xbabble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
